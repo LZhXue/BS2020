@@ -1,0 +1,15 @@
+package com.lzx.utility;
+
+import com.lzx.model.Book_Shelf;
+import com.lzx.model.Recog;
+
+public class SearchBookIndex {
+
+	public static Book_Shelf getBookInfoSearch(String indexNnumber){
+		Book_Shelf model=Recog.Recognize(indexNnumber);
+		
+		model.setStorey_number("A-"+model.getStorey_number());
+		return model;
+		
+	}
+}

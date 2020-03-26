@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Mar 26 10:04:44 CST 2020
+org.eclipse.jst.jee.server\:/binary\:F\:\\softwear\\java2\\org\\springframework\\spring-web\\4.1.2.RELEASE\\spring-web-4.1.2.RELEASE.jar=F\:\\softwear\\spring-tool-suite-3.9.5.RELEASE-e4.8.0-win32-x86_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\LZXWEB\\WEB-INF\\lib\\spring-web-4.1.2.RELEASE.jar
+org.eclipse.jst.jee.server\:LZXWEB=F\:\\softwear\\spring-tool-suite-3.9.5.RELEASE-e4.8.0-win32-x86_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\LZXWEB
